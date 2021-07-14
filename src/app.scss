@@ -1,12 +1,18 @@
 .app {
-	height: 100vh;
+  height: 100vh;
 
-	// .sections {
-	// height: calc(100vh - 70px);
-	// width: 100%;
-	// background-color: lightsalmon;
-	// position: relative;
-	// top: 70px;
-	// scroll-snap-type: y mandatory;
-	// }
+  .sections {
+    height: calc(100vh - 70px);
+    width: 100%;
+    background-color: lightsalmon;
+    position: relative;
+    top: 70px;
+    // scroll-snap-type: y mandatory;
+
+    > * {
+      width: 100vw;
+      height: calc(100vh - 70px);
+      // scroll-snap-align: start;
+    }
+  }
 }
