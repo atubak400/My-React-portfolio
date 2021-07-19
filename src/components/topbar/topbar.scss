@@ -7,7 +7,7 @@
   color: $mainColor;
   position: fixed;
   top: 0;
-  z-index: 2;
+  z-index: 3;
   transition: all 1s ease;
 
   .wrapper {
@@ -26,12 +26,18 @@
         text-decoration: none;
         color: inherit;
         margin-right: 40px;
+        &:hover {
+          color: #de8a23;
+        }
       }
 
       .itemContainer {
         display: flex;
         align-items: center;
         margin-left: 30px;
+        &:hover {
+          color: #de8a23;
+        }
 
         .icon {
           font-size: 18px;
