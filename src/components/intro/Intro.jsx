@@ -1,4 +1,5 @@
 import './intro.scss'
+import { init } from 'ityped'
 
 export default function intro() {
   return (
@@ -12,7 +13,9 @@ export default function intro() {
         <div className='wrapper'>
           <h2>Hi There, I'm</h2>
           <h1>Kingsley Atuba</h1>
-          <h3>AWS Cloud Architect / React Engineer</h3>
+          <h3>
+            AWS Cloud Architect <span>React Developer</span>
+          </h3>
         </div>
         <a href='#portfolio'>
           <img src='assets/down.png' alt='' />
