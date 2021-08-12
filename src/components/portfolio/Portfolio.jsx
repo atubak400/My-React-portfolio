@@ -14,7 +14,42 @@ export default function portfolio() {
       <div className='container'>
         <div className='item'>
           <img
-            src='https://appcanvas.io/wp-content/uploads/2019/10/john.jpg'
+            src='https://applicable.co.nz/wp-content/uploads/revslider/fullslide-phone1-thegem-post-thumb-large.jpg'
+            alt=''
+          />
+          <h3>Banking App</h3>
+        </div>
+        <div className='item'>
+          <img
+            src='https://applicable.co.nz/wp-content/uploads/revslider/fullslide-phone1-thegem-post-thumb-large.jpg'
+            alt=''
+          />
+          <h3>Banking App</h3>
+        </div>
+        <div className='item'>
+          <img
+            src='https://applicable.co.nz/wp-content/uploads/revslider/fullslide-phone1-thegem-post-thumb-large.jpg'
+            alt=''
+          />
+          <h3>Banking App</h3>
+        </div>
+        <div className='item'>
+          <img
+            src='https://applicable.co.nz/wp-content/uploads/revslider/fullslide-phone1-thegem-post-thumb-large.jpg'
+            alt=''
+          />
+          <h3>Banking App</h3>
+        </div>
+        <div className='item'>
+          <img
+            src='https://applicable.co.nz/wp-content/uploads/revslider/fullslide-phone1-thegem-post-thumb-large.jpg'
+            alt=''
+          />
+          <h3>Banking App</h3>
+        </div>
+        <div className='item'>
+          <img
+            src='https://applicable.co.nz/wp-content/uploads/revslider/fullslide-phone1-thegem-post-thumb-large.jpg'
             alt=''
           />
           <h3>Banking App</h3>
